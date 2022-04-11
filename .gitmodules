@@ -1,0 +1,3 @@
+[submodule "config-files"]
+    path = config-files
+    url = http://opendev.org/starlingx/config-files
